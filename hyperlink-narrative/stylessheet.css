@@ -8,3 +8,6 @@ body {
     scrollbar-color: rgb(137, 126, 111), transparent(0.7);
     color: black;
 }
+a:link, a:hover {
+    font-style: italic;
+}
