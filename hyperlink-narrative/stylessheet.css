@@ -2,6 +2,9 @@ body {
     background-color: rgb(228, 203, 170);
     margin: 1.5rem;
     border: 1cm, double, color-mix(in srgb, burlywood 60%, black 40%);
-    font-family: fantasy;
+    font-family: 'Trattatello', serif;
     user-select: text;
+    font-style: oblique;
+    scrollbar-color: rgb(137, 126, 111), transparent(0.7);
+    color: black;
 }
