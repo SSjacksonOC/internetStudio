@@ -1,0 +1,7 @@
+html {
+    background-color: rgb(228, 203, 170);
+    margin: 1.5rem;
+    border: 1cm, double, color-mix(in srgb, burlywood 60%, black 40%);
+    font-family: 'fantasy', 'Trattatello';
+    user-select: text;
+}
